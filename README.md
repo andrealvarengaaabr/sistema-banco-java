@@ -1,7 +1,7 @@
 # sistema-banco-java
 **NOME: Andre Pinto Alvarenga**
 **Turma: 2º período de Tecnico em informatica** 
-**Frase:** Fechar Mês é a interface, depositar é 
+**Frase:** O método fecharMes() está na interface porque representa atributo comum as classes contas e enquanto depositar está na classe herdada por ter uma lógica idêntica para todas as contas, evitando a repetição de código.
 
 **Descrição**
 
