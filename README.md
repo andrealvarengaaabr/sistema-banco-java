@@ -7,8 +7,6 @@
 
 Programa que usa conceitos de interface e herança para criar um programa capaz de usar uma classe mâe para gerar atributos comuns as classes filhas, e além do mais, usar conceitos de interface que é pela qual conversamos com um Autenticavel, ou seja ela expõe o que o objeto faz. É um programa referente a Atividade da 5º lista de POO do Msc Rodrigo de Lima Cunha.
 
-**Regras do programa:**
-O programa 
 
 **Estrutura do projeto**
 
